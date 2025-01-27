@@ -1,1 +1,1 @@
-Here is the simple bmi calculator, you can check it by your input weigth and heigth.
+Here is the simple bmi calculator, you can check bmi by giving your input weigth and heigth.
